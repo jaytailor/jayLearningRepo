@@ -1,2 +1,2 @@
 this is the another file for commit test1
-
+adding a line in test1.txt to create conflict
