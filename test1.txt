@@ -5,3 +5,12 @@ Now i m changing test1.txt from clone directory
 Now i m adding in master and see that i pull it into the branch
 
 lets check what happens to stashing yay!.
+
+Now lets fix the code, and move back to the stash. 
+Now i m adding in master and see that i pull it into the branch.
+
+I am going to make bunch of changes here 
+
+which may create conflict at later point of time but
+
+right now i will stash them
