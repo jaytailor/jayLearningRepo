@@ -2,4 +2,6 @@ this is the another file for commit test1
 adding a line in test1.txt to create conflict
 Now i m changing test1.txt from clone directory
 
-Now i m adding in master and see that i pull it into the branch.
+Now i m adding in master and see that i pull it into the branch
+
+lets check what happens to stashing yay!.
